@@ -4,4 +4,4 @@ La **Galería de Arte TripleTen** se enorgullece de presentar una colección de 
 
 A través del arte, celebramos su impacto y el vínculo que construyen dentro de nuestra comunidad. 🌍✨
 
-##URL:https://scastrox.github.io/web_project_homeland/
+## ☁️ https://scastrox.github.io/web_project_homeland/
